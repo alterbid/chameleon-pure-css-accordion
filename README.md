@@ -22,7 +22,7 @@ Chameleon Pure CSS Accordion changes its colors to match the theme colors of you
 
 * [Chameleon Pure CSS Accordion - Live Demo](https://alterbid.com/chameleon-pure-css-accordion-for-free/)
 * [Read more about Chameleon Pure CSS Accordion Settings](https://alterbid.com/wp-content/uploads/2017/12/Chameleon_Pure_CSS_Accordion_Settings.pdf)
-* [GitHub project](https://github.com/alterbid/chameleon-pure-css-accordion)
+* [Wordpress Storage](https://wordpress.org/plugins/chameleon-pure-css-accordion/)
 
 == Features Of Plugin ==
 
